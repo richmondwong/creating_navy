@@ -1,7 +1,6 @@
 DROP SCHEMA public cascade;
 CREATE SCHEMA public;
 
-
 CREATE TABLE fleets (
   id BIGSERIAL PRIMARY KEY);
 
